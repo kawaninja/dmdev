@@ -8,6 +8,7 @@ public class BooleanExample {
 		boolean test1 = value1 == 0;
 		boolean test2 = value2 > 0;
 		System.out.println(test1 && test2);
+		System.out.println(test1 && test2);
 //		System.out.println(test2);
 
 	}
