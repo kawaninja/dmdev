@@ -1,6 +1,6 @@
 package com.kawaninja.lesson7;
 
-public class Task72 {
+public class Task2 {
 	public static void main(String[] args) {
 		int values [] = new int [100];
 		fillArray(values);
